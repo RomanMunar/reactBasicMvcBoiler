@@ -1,5 +1,5 @@
 import React from "react";
-const About = props => {
+const About = () => {
   return (
     <div>
       <h1 className="display-4"><span className="text-danger">Contact</span> Manager</h1>
